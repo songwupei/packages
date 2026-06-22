@@ -2,8 +2,6 @@
 
 A fresh, bamboo-green theme for the [Touying](https://github.com/touying-typ/touying) presentation framework.
 
-![Thumbnail](thumbnail.png)
-
 ## Features
 
 - Clean header with current section title and slide title
@@ -15,11 +13,7 @@ A fresh, bamboo-green theme for the [Touying](https://github.com/touying-typ/tou
 
 ## Usage
 
-```bash
-typst init @preview/touying-bamboo
-```
-
-Or import directly in your Typst file:
+Import directly in your Typst file:
 
 ```typ
 #import "@preview/touying-bamboo:0.1.0": *

@@ -5,13 +5,6 @@
   bg-ing: rgb("#F9F9F9"), // Very light gray for ingredients
   line: rgb("#EEEEEE"),
 )
-// #let fonts = (
-  // body: ("Zhuque Fangsong (technical preview)", "Times New Roman" ),
-  // header: ("LXGW WenKai", "Helvetica Neue", "Arial" ),
-  // mono: ("JetBrainsMono NF", "Courier New", "LXGW WenKai Mono", "Maple Mono NF CN"),
-  // sans: ("Sarasa Mono SC"),
-// )
-
 #let fonts = (
   body: ("Zhuque Fangsong (technical preview)", "Times New Roman" ),
   header: ("LXGW WenKai",  "Arial" ),
